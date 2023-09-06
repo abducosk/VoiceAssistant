@@ -216,5 +216,5 @@ class Voice_Assistant():
             self.speak("Good Night " + self.name[0][0])
         
         self.listen()
-       
-assistant = Voice_Assistant()
+
+assistant = Voice_Assistant("amına koyum")
